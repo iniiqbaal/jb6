@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <title>Rystore</title>
+    <title>iStore</title>
 </head>
 
 <body>
@@ -15,7 +15,7 @@
             <div class="col-md-12">
                 <div>
                     <h1 class="text-center my-4" style="font-weight: bolder"><a href="/"
-                        style="color: #47b5ff; text-decoration: none;" title="Ke halaman Home">RYSTORE</a></h1>
+                        style="color: #47b5ff; text-decoration: none;" title="Ke halaman Home">iStore</a></h1>
                     <hr>
                 </div>
                 <div class="card">
